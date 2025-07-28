@@ -10,10 +10,10 @@ intro:
   blurbs:
     - image: /img/baju.jpg
       text: >
-        Kami menghadirkan koleksi abaya elegan dari bahan berkualitas pilihan. Setiap desain dibuat dengan cermat, mendukung lingkungan, dan komunitas lokal. Lihat koleksi terbaru kami atau hubungi kami untuk desain terkini!
+        Kami menghadirkan koleksi abaya elegan dari bahan berkualitas pilihan. Setiap desain dibuat dengan cermat, mendukung lingkungan, dan komunitas lokal. Lihat koleksi terbaru kami atau hubungi kami untuk desain terkini.
     - image: /img/bajuu.jpg
       text: >
-        Kami menghadirkan koleksi abaya elegan yang dipilih dengan cermat untuk berbagai gaya. Temukan abaya yang sempurna untuk melengkapi penampilan Anda!
+        Kami menghadirkan koleksi abaya elegan yang dipilih dengan cermat untuk berbagai gaya. Temukan abaya yang sempurna untuk melengkapi penampilan Anda.
     - image: /img/bajuuu.jpg
       text: >
         Ingin tampil elegan dengan abaya, tapi bingung memilih yang tepat? Baru membeli abaya baru tapi belum tahu cara memadukannya? Tenang, kami siap membantu! Jadwalkan konsultasi pribadi dengan tim kami untuk menemukan abaya dan gaya yang paling cocok untuk Anda. Hubungi kami melalui email atau telepon untuk info lebih lanjut.

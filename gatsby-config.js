@@ -3,7 +3,7 @@ module.exports = {
     title: "Abayalookk",
     description:"This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
     author: "Nani haerani",
-    keywords: "abaya feminin, gaya muslimah sopan, abaya eksklusif, modest fashion Malaysia, abaya minimalis",
+    keywords: "abaya Look, abaya feminin, abaya muslimah sopan, abaya eksklusif, abaya fashion Malaysia, abaya minimalis, abaya fashion styling, abaya, abaya look, abaya fashion lokal",
     url:"https://abayalook.my.id",
   },
   plugins: [

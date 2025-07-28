@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: Tentang Abaya Look.
+title: Tentang Abaya Look
 ---
 ### 🌿 Keanggunan Abaya yang Abadi
 
